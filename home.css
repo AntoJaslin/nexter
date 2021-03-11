@@ -567,10 +567,10 @@ body {
   margin-left: 2rem;
 }
 
-.home__location svg,
-.home__rooms svg,
-.home__price svg,
-.home__area svg {
+.home__location img,
+.home__rooms img,
+.home__price img,
+.home__area img {
   height: 2rem;
   width: 2rem;
   fill: #c69963;
